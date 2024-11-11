@@ -1,6 +1,6 @@
 # 👋 Salut, je suis Chedia Massoudi !
 
-Je suis une **développeuse Full Stack** passionnée, spécialisée dans le développement web et mobile avec une forte expérience en **DevOps** et **Cloud Computing**. Actuellement étudiante en génie logiciel à l'université **TEK-UP**, je travaille sur divers projets académiques et professionnels en utilisant des technologies de pointe telles que **Symfony**, **Angular**, **Spring Boot**, **Node.js**, **Flutter**, **AWS**, et plus encore.
+**développeuse Full Stack** 
 
 🌍 **Technologies maîtrisées**:
 - **Frontend**: HTML5, CSS3, JavaScript, Angular, React, Bootstrap, TailwindCSS, Ionic, Flutter
@@ -64,7 +64,6 @@ Je suis une **développeuse Full Stack** passionnée, spécialisée dans le dév
 ## 📬 Contactez-moi
 - 📧 **Email**: chedia.massoudi@example.com
 - 🌍 **LinkedIn**: [Chedia Massoudi](https://www.linkedin.com/in/chedia-massoudi/)
-- 💼 **GitHub**: [Chedia Massoudi GitHub](https://github.com/xsol05)
 
 ---
 
