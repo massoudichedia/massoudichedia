@@ -4,14 +4,6 @@
   <strong>Développeuse Full Stack</strong>
 </p>
 
-🌍 **Technologies maîtrisées**:
-- **Frontend**: HTML5, CSS3, JavaScript, Angular, React, Bootstrap, TailwindCSS, Ionic, Flutter
-- **Backend**: Symfony, Spring Boot, Node.js, .NET, PHP, Django, J2EE
-- **Langages de programmation**: JavaScript, Java, C, C++, PHP
-- **Bases de données**: MySQL, MongoDB, SQL Server, OracleDB, PostgreSQL
-- **Mobile**: Flutter, Android Studio (Java, Kotlin), Ionic
-- **Cloud**: AWS (EC2, S3, RDS, Lambda, VPC)
-- **DevOps**: Git, GitLab CI, Docker, Kubernetes, Helm, Prometheus, Grafana, Vagrant, SCRUM, Linux
 
 ## 🛠️ Stack Technologique
 
