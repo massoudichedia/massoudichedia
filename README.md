@@ -1,6 +1,8 @@
 # 👋 Salut, je suis Chedia Massoudi !
 
-**développeuse Full Stack** 
+<p align="center">
+  <strong>Développeuse Full Stack</strong>
+</p>
 
 🌍 **Technologies maîtrisées**:
 - **Frontend**: HTML5, CSS3, JavaScript, Angular, React, Bootstrap, TailwindCSS, Ionic, Flutter
@@ -10,8 +12,6 @@
 - **Mobile**: Flutter, Android Studio (Java, Kotlin), Ionic
 - **Cloud**: AWS (EC2, S3, RDS, Lambda, VPC)
 - **DevOps**: Git, GitLab CI, Docker, Kubernetes, Helm, Prometheus, Grafana, Vagrant, SCRUM, Linux
-
-
 
 ## 🛠️ Stack Technologique
 
@@ -59,8 +59,6 @@
 
 ---
 
-
-
 ## 📬 Contactez-moi
 - 📧 **Email**: chedia.massoudi@example.com
 - 🌍 **LinkedIn**: [Chedia Massoudi](https://www.linkedin.com/in/chedia-massoudi/)
@@ -70,4 +68,3 @@
 ## 🚀 Autres informations
 - **Méthodologie Agile**: Utilisation de **Scrum** pour la gestion de projet et la collaboration d'équipe.
 - **UML**: Modélisation des processus avec **UML** pour une meilleure planification et architecture des projets.
-
