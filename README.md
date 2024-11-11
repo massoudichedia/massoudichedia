@@ -1,88 +1,61 @@
-# 👋 Hello! I'm **Chedia Massoudi**
+# 👋 Salut, je suis Chedia Massoudi !
 
-Développeur **Full Stack**
+Je suis une **développeuse Full Stack** passionnée, spécialisée dans les technologies web et mobile et développeuse avec une expérience pratique dans des projets en **JavaScript**, **Spring Boot**, **Angular**, et **Flutter**.
 
-## 🔧 Compétences techniques
+🌍 **Technologies maîtrisées**:
+- **Frontend**: HTML5, CSS3, JavaScript, Angular, React, Bootstrap, TailwindCSS
+- **Backend**: Node.js, Express, Spring Boot, ASP.NET Core
+- **Bases de données**: MySQL, MongoDB, SQL Server
+- **Outils**: Git, GitHub, Docker, Jenkins
+- **Mobile**: Flutter, Android (Java, Kotlin)
+- **Autres**: Firebase, GraphQL, AWS
 
-<div style="display: flex; flex-wrap: wrap; gap: 15px;">
-  <div style="border: 2px solid #ddd; padding: 10px; border-radius: 8px;">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/java.svg" alt="Java" title="Java" width="50" />
-  </div>
-  <div style="border: 2px solid #ddd; padding: 10px; border-radius: 8px;">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/javascript.svg" alt="JavaScript" title="JavaScript" width="50" />
-  </div>
-  <div style="border: 2px solid #ddd; padding: 10px; border-radius: 8px;">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/html5.svg" alt="HTML5" title="HTML5" width="50" />
-  </div>
-  <div style="border: 2px solid #ddd; padding: 10px; border-radius: 8px;">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/css3.svg" alt="CSS3" title="CSS3" width="50" />
-  </div>
-  <div style="border: 2px solid #ddd; padding: 10px; border-radius: 8px;">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/php.svg" alt="PHP" title="PHP" width="50" />
-  </div>
-  <div style="border: 2px solid #ddd; padding: 10px; border-radius: 8px;">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/mysql.svg" alt="MySQL" title="MySQL" width="50" />
-  </div>
-  <div style="border: 2px solid #ddd; padding: 10px; border-radius: 8px;">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/cplusplus.svg" alt="C/C++" title="C/C++" width="50" />
-  </div>
-</div>
+## 📈 Statistiques GitHub
 
-<div style="display: flex; flex-wrap: wrap; gap: 15px;">
-  <div style="border: 2px solid #ddd; padding: 10px; border-radius: 8px;">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/angular.svg" alt="Angular" title="Angular" width="50" />
-  </div>
-  <div style="border: 2px solid #ddd; padding: 10px; border-radius: 8px;">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/spring.svg" alt="Spring Boot" title="Spring Boot" width="50" />
-  </div>
-  <div style="border: 2px solid #ddd; padding: 10px; border-radius: 8px;">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/dot-net.svg" alt=".NET" title=".NET" width="50" />
-  </div>
-  <div style="border: 2px solid #ddd; padding: 10px; border-radius: 8px;">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/node-dot-js.svg" alt="Node.js" title="Node.js" width="50" />
-  </div>
-</div>
+![Chedia Massoudi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=xsol05&theme=radical&hide_border=false&include_all_commits=true&count_private=true)
 
-<div style="display: flex; flex-wrap: wrap; gap: 15px;">
-  <div style="border: 2px solid #ddd; padding: 10px; border-radius: 8px;">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/android.svg" alt="Android" title="Android" width="50" />
-  </div>
-  <div style="border: 2px solid #ddd; padding: 10px; border-radius: 8px;">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/flutter.svg" alt="Flutter" title="Flutter" width="50" />
-  </div>
-  <div style="border: 2px solid #ddd; padding: 10px; border-radius: 8px;">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/ionic.svg" alt="Ionic" title="Ionic" width="50" />
-  </div>
-</div>
+---
 
-<div style="display: flex; flex-wrap: wrap; gap: 15px;">
-  <div style="border: 2px solid #ddd; padding: 10px; border-radius: 8px;">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/git.svg" alt="Git" title="Git" width="50" />
-  </div>
-  <div style="border: 2px solid #ddd; padding: 10px; border-radius: 8px;">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/docker.svg" alt="Docker" title="Docker" width="50" />
-  </div>
-  <div style="border: 2px solid #ddd; padding: 10px; border-radius: 8px;">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/vagrant.svg" alt="Vagrant" title="Vagrant" width="50" />
-  </div>
-  <div style="border: 2px solid #ddd; padding: 10px; border-radius: 8px;">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/kubernetes.svg" alt="Kubernetes" title="Kubernetes" width="50" />
-  </div>
-  <div style="border: 2px solid #ddd; padding: 10px; border-radius: 8px;">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/helm.svg" alt="Helm" title="Helm" width="50" />
-  </div>
-  <div style="border: 2px solid #ddd; padding: 10px; border-radius: 8px;">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/grafana.svg" alt="Grafana" title="Grafana" width="50" />
-  </div>
-  <div style="border: 2px solid #ddd; padding: 10px; border-radius: 8px;">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/linux.svg" alt="Linux" title="Linux" width="50" />
-  </div>
-  <div style="border: 2px solid #ddd; padding: 10px; border-radius: 8px;">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/prometheus.svg" alt="Prometheus" title="Prometheus" width="50" />
-  </div>
-</div>
+## 🛠️ Stack Technologique
 
-## 🌐 Me contacter
+### Frontend
+- **HTML5** ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+- **CSS3** ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+- **JavaScript** ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+- **React** ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+- **Angular** ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
 
-- [LinkedIn](https://www.linkedin.com/in/chadia-massoudi-8a1936226/)
-- [Facebook](https://www.facebook.com/chadia.massoudi.3)
+### Backend
+- **Node.js** ![Node.js](https://img.shields.io/badge/node.js-%23339933.svg?style=for-the-badge&logo=node.js&logoColor=white)
+- **Express** ![Express](https://img.shields.io/badge/express-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
+- **Spring Boot** ![Spring Boot](https://img.shields.io/badge/spring%20boot-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
+- **ASP.NET Core** ![ASP.NET Core](https://img.shields.io/badge/asp.net%20core-%23239120.svg?style=for-the-badge&logo=asp.net&logoColor=white)
+
+### Mobile Development
+- **Flutter** ![Flutter](https://img.shields.io/badge/flutter-%2302568C.svg?style=for-the-badge&logo=flutter&logoColor=white)
+- **Android (Java, Kotlin)** ![Android](https://img.shields.io/badge/android-%2320232a.svg?style=for-the-badge&logo=android&logoColor=%2361DAFB)
+
+### Database Management
+- **MySQL** ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+- **MongoDB** ![MongoDB](https://img.shields.io/badge/mongodb-%2347A248.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+- **SQL Server** ![SQL Server](https://img.shields.io/badge/sql%20server-%23F7D65D.svg?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
+
+### Outils de développement
+- **GitHub** ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+- **Docker** ![Docker](https://img.shields.io/badge/docker-%232496ED.svg?style=for-the-badge&logo=docker&logoColor=white)
+-
+
+
+
+---
+
+## 📬 Contactez-moi
+- 📧 **Email**: chedia.massoudi@example.com
+- 🌍 **LinkedIn**: [Chedia Massoudi](https://www.linkedin.com/in/chedia-massoudi/)
+- 💼 **GitHub**: [Chedia Massoudi GitHub](https://github.com/xsol05)
+
+---
+
+## 🚀 Autres informations
+- **Méthodologie Agile**: Utilisation de Scrum pour la gestion de projets.
+- **Passionnée de développement mobile** avec une expertise en Flutter et Android.
